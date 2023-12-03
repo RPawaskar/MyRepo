@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-03T14:19:07 IST" name="Suite" finished-at="2023-12-03T14:19:33 IST" duration-ms="26651">
+    <groups>
+    </groups>
+    <test started-at="2023-12-03T14:19:07 IST" name="Test" finished-at="2023-12-03T14:19:33 IST" duration-ms="26651">
+      <class name="Disney.Disney.ViewHomeTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Disney.Disney.ViewHomeTest@72d1ad2e]" started-at="2023-12-03T14:19:19 IST" name="launchBrowser" finished-at="2023-12-03T14:19:25 IST" duration-ms="5987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="viewHome()[pri:0, instance:Disney.Disney.ViewHomeTest@72d1ad2e]" started-at="2023-12-03T14:19:25 IST" name="viewHome" finished-at="2023-12-03T14:19:33 IST" duration-ms="7683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewHome -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Disney.Disney.ViewHomeTest@72d1ad2e]" started-at="2023-12-03T14:19:33 IST" name="closeBrowser" finished-at="2023-12-03T14:19:33 IST" duration-ms="620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Disney.Disney.ViewHomeTest -->
+      <class name="Disney.Disney.ViewShowTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Disney.Disney.ViewShowTest@8dbdac1]" started-at="2023-12-03T14:19:07 IST" name="launchBrowser" finished-at="2023-12-03T14:19:13 IST" duration-ms="6822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="viewShow()[pri:0, instance:Disney.Disney.ViewShowTest@8dbdac1]" started-at="2023-12-03T14:19:13 IST" name="viewShow" finished-at="2023-12-03T14:19:18 IST" duration-ms="4873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewShow -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Disney.Disney.ViewShowTest@8dbdac1]" started-at="2023-12-03T14:19:18 IST" name="closeBrowser" finished-at="2023-12-03T14:19:19 IST" duration-ms="605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Disney.Disney.ViewShowTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
